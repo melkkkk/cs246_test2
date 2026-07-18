@@ -33,4 +33,10 @@ int main(int argc, char *argv []){
             cout << "'" << command << "' is an invalid command" << endl;
         }
     }
+
+    // add more initialization stuff here
+
+    // main game loop
+
+    // string 
 }
